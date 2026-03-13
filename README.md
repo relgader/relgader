@@ -27,11 +27,11 @@
 
 <p>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/richard-da-trindade-ara%C3%BAjo-1bb661381/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com">
+<a href="https://www.instagram.com/relgader/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -83,38 +83,4 @@
 
 # 📈 Gráfico de atividade
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=relgader&theme=tokyo-night"/>
-
----
-
-# 🧠 Atualmente estudando
-
-📊 Data Science
-📈 Análise de Dados
-🤖 Inteligência Artificial
-⚙️ Backend Development
-📚 Estruturas de Dados
-
----
-
-# 🐍 Snake comendo meus commits
-
-![snake gif](https://github.com/relgader/relgader/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
-
-### 👀 Visualizações do perfil
-
-<img src="https://komarev.com/ghpvc/?username=relgader&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</div>
+<img src="https://
