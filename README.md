@@ -43,7 +43,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,git,github,vscode"/>
 
 </p>
 
@@ -83,4 +83,38 @@
 
 # 📈 Gráfico de atividade
 
-<img src="https://
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=relgader&theme=tokyo-night"/>
+
+---
+
+# 🧠 Atualmente estudando
+
+📊 Data Science
+📈 Análise de Dados
+🤖 Inteligência Artificial
+⚙️ Backend Development
+📚 Estruturas de Dados
+
+---
+
+# 🐍 Snake comendo meus commits
+
+![snake gif](https://github.com/relgader/relgader/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### 👀 Visualizações do perfil
+
+<img src="https://komarev.com/ghpvc/?username=relgader&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
